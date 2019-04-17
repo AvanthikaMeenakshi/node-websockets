@@ -1,0 +1,35 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "medium-editor": "^5.23.3",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-identicons": "^1.1.7",
+    "react-medium-editor": "^1.8.1",
+    "react-scripts": "2.1.8",
+    "reactstrap": "^8.0.0",
+    "websocket": "^1.0.28"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-prettier": "^4.1.0",
+    "prettier": "^1.17.0"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
